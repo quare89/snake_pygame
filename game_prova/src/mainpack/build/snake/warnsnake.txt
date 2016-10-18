@@ -1,9 +1,9 @@
 missing module named pyimod03_importers - imported by c:\users\simone.quaresmini\appdata\local\programs\python\python35\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_pkgres.py
 missing module named __main__ - imported by pkg_resources
-missing module named multiprocessing.get_start_method - imported by multiprocessing, multiprocessing.spawn
 missing module named multiprocessing.set_start_method - imported by multiprocessing, multiprocessing.spawn
-missing module named multiprocessing.get_context - imported by multiprocessing, multiprocessing.pool, multiprocessing.managers, multiprocessing.sharedctypes
+missing module named multiprocessing.get_start_method - imported by multiprocessing, multiprocessing.spawn
 missing module named multiprocessing.TimeoutError - imported by multiprocessing, multiprocessing.pool
+missing module named multiprocessing.get_context - imported by multiprocessing, multiprocessing.pool, multiprocessing.managers, multiprocessing.sharedctypes
 missing module named multiprocessing.AuthenticationError - imported by multiprocessing, multiprocessing.connection
 missing module named multiprocessing.BufferTooShort - imported by multiprocessing, multiprocessing.connection
 missing module named _sysconfigdata - imported by sysconfig
